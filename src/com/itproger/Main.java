@@ -13,6 +13,9 @@ public class Main {
         int num2 = Integer.parseInt(reader.readLine());
 
         System.out.println(sum(num1, num2));
+        System.out.println();
+        System.out.println();
+
     }
     private static int sum (int number1, int number2){
         int res = number1 + number2;
