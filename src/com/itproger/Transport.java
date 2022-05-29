@@ -11,6 +11,7 @@ public class Transport {
         System.out.println("Объект создан: ");
         setValues(_speed, _weigt, _color, _coordinate);
         System.out.println(getValues());
+        System.out.println();
     }
 
     public Transport (int weight, byte[] coordinate){
