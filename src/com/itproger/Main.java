@@ -15,7 +15,7 @@ public class Main {
         System.out.println(sum(num1, num2));
         System.out.println();
         System.out.println();
-        System.out.println();
+
 
     }
     private static int sum (int number1, int number2){
